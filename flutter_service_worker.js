@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "2d8c032b61da73dea88d375623483e07",
+  "main.dart.js": "a0d13d120f6561f8952c03e2e204a314",
 "version.json": "11518501dff44424caaf22ad1f42be43",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/AssetManifest.json": "83e193098ec27106b03efb0b83e469ff",
-"assets/NOTICES": "e5442a74d53eb63d24a71f44e3a69496",
+"assets/NOTICES": "a0ae60655209940caf0d17e738cbf95d",
 "assets/FontManifest.json": "781dab8aa2867f4be7393e07bc115603",
 "assets/assets/fonts/Poppins/Poppins-BlackItalic.ttf": "3fb21c8084013f3d0176bc98bcf76e60",
 "assets/assets/fonts/Poppins/Poppins-BoldItalic.ttf": "09775bde3e9448b38c063b746e21cb6b",
@@ -33,8 +33,8 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "manifest.json": "9681066375e8c1e287db5289f2e4612f",
-"index.html": "6d8b99ab3db05ea99666bc241b02acff",
-"/": "6d8b99ab3db05ea99666bc241b02acff"
+"index.html": "ef1db93010ba4c6bfbc77962cdd24f62",
+"/": "ef1db93010ba4c6bfbc77962cdd24f62"
 };
 
 // The application shell files that are downloaded before a service worker can
